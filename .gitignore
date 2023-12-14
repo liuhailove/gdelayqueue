@@ -17,7 +17,6 @@ go.sum
 .github
 .idea
 .idea/*
-gslog
 
 ### Go template
 # Binaries for programs and plugins
@@ -33,7 +32,7 @@ gslog
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 example
-
+gdelayqueue.iml
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
